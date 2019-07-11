@@ -1,0 +1,21 @@
+
+.cell:hover {
+	background-color: #92f0a5;
+}
+
+.cell {
+	background-color: #1be35a;
+	display: inline-block;
+	margin: 0;
+	font-size: 1.5rem;
+	font-family: "Arial", "Open Sans", "Noto Sans";
+
+	line-height: 39px;
+	vertical-align: middle;
+	text-align: center;
+	user-select: none;
+}
+/*	green  #1be35a
+	gray 606060
+	yellow #d9d200
+	black 2F2F2F */

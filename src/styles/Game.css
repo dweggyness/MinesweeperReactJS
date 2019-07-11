@@ -1,0 +1,51 @@
+h1 {
+	font-size: 2.5rem;
+	text-align: center;
+	font-family: "Helvetica","Roboto","Lato";
+}
+
+#main {
+	margin: 0 auto;
+	background-color: #2F2F2F;
+}
+
+#board {
+	margin-bottom: 15px;
+}
+
+#header {
+	text-align: center;
+	font-family: "Arial", "Open Sans", "Noto Sans";
+	color: #EAEAEA;
+}
+
+#footer {
+	display: flex;
+	justify-content: space-between;
+	font-family: "Arial", "Open Sans", "Noto Sans";
+	color: #EAEAEA;
+	margin-bottom: 50px;
+}
+
+button {
+	display: inline-block;
+	margin: 0 10px 10px 0;
+	border: none;
+	background-color: #d9d200;
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+button:hover {
+	background-color: #c9c30a;
+}
+
+p {
+	margin: 0 0 5px 0;
+	font-size: 1.25rem;
+}
+
+/*	green  27CA5A
+	gray 606060
+	yellow F6EF1B
+	black 2F2F2F */
