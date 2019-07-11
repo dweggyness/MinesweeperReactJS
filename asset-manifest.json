@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MinesweeperReactJS/static/css/main.e8f18f1f.chunk.css",
+    "main.js": "/MinesweeperReactJS/static/js/main.06bd60cc.chunk.js",
+    "main.js.map": "/MinesweeperReactJS/static/js/main.06bd60cc.chunk.js.map",
+    "runtime~main.js": "/MinesweeperReactJS/static/js/runtime~main.4196fb13.js",
+    "runtime~main.js.map": "/MinesweeperReactJS/static/js/runtime~main.4196fb13.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/MinesweeperReactJS/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/MinesweeperReactJS/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/MinesweeperReactJS/index.html",
+    "precache-manifest.b783971ee6c547e61d8e830b45d3f54e.js": "/MinesweeperReactJS/precache-manifest.b783971ee6c547e61d8e830b45d3f54e.js",
+    "service-worker.js": "/MinesweeperReactJS/service-worker.js",
+    "static/css/main.e8f18f1f.chunk.css.map": "/MinesweeperReactJS/static/css/main.e8f18f1f.chunk.css.map"
+  }
+}
