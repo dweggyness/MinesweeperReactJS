@@ -4,8 +4,10 @@ A simple Minesweeper clone to learn React. Has a timer feature and two difficult
 
 > Possible improvements in the future
 
-[] Custom difficulties
-[] Mobile support (long press to flag)
-[] More victory/loss fanfare
-[] More animations
+- Custom difficulties
+- Mobile support (long press to flag)
+- More victory/loss fanfare
+- More animations
 
+### Github Pages
+https://dweggyness.github.io/MinesweeperReactJS/
